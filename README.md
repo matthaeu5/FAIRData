@@ -36,10 +36,3 @@ How FAIR is the Open Data Strategy of Austria?
 ## Contributors
 - **Matthäus Bulgarini**
 - **Marcell Molnar**
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-By following this README, users will understand the project's purpose, methodology, workflow, and tools used in evaluating Austria's adherence to FAIR Data principles.
