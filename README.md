@@ -31,7 +31,6 @@ How FAIR is the Open Data Strategy of Austria?
 ## Tools and Resources
 - **Integrity-tester**: A tool to check dataset integrity and adherence to FAIR principles.
 - **FAIR-checker**: A tool to evaluate the FAIRness of data based on specific metrics.
-- **Repositories**: Zenodo, OneData, and other repositories for data storage and sharing.
 
 ## Contributors
 - **Matthäus Bulgarini**
