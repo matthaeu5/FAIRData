@@ -6,7 +6,7 @@ This project evaluates the adherence to FAIR Data principles in DACH region and 
 <strong> REMINDER: you might have to change file / folder dependencies to proper run the code on your environment. </strong>
 1. "DE, IR, CH, Open Data Portal metadata.ipynb" is for downloading the relevant metadata from Open Data Portals (of Germany, Ireland, and Switzerland). Outputs are excel files for each country. 
 2. "API Assessment Process.ipynb" takes the downloaded metadata files and runs the assessment for those three countries.
-3. "FAIR_Checker_Cleaned_vFinal.ipynb"
+3. "FAIR_Checker_Cleaned_vFinal.ipynb" does the assessment for the files downloaded from the Austrian data portal (not included in the metadata notebook as these files were downloaded directly from the website with no requests) and performs comparative analysis. Intermediate point and corresponding files are included where one can skip the lengthy assessment-process and run only the analysis.
 
 
 ## Project Overview
