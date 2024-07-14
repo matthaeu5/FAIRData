@@ -1,3 +1,6 @@
+# Github Repository
+https://github.com/matthaeu5/FAIRData
+
 # FAIR Data Evaluation of DACH's and Ireland's Open Data Strategy
 
 This project evaluates the adherence to FAIR Data principles in DACH region and Ireland regarding their Open Data Strategy. The FAIR Data principles aim to enhance data value by making it Findable, Accessible, Interoperable, and Reusable. Our research focuses on assessing the FAIRness of data available on the respective open data portals and analyzing the results to provide insights and a qualitative comparison of the countries FAIR Data adherence.
